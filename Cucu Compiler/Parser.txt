@@ -1,0 +1,110 @@
+Datatype : int
+Varibale : m 
+Value : 9 
+Assignment : =
+
+Datatype : int
+Varibale : func 
+Datatype : int
+Varibale : pu 
+Datatype : int
+Varibale : y 
+Datatype : int
+Varibale : c 
+Function Arguments above
+
+Varibale : x 
+Value : 0 
+Operator : > 
+Varibale : i 
+Value : 1 
+Varibale : a 
+Varibale : c 
+Varibale : a 
+Varibale : f 
+If Condition Ends 
+
+Varibale : s 
+Varibale : i 
+Varibale : h 
+Varibale : b 
+While Loop Ends 
+
+Varibale : i 
+Return statement 
+
+Declaration of the function above
+
+
+Datatype : int
+Varibale : ARR 
+Datatype : int
+Varibale : x 
+Value : 3 
+Assignment : =
+Datatype : char *
+Varibale : s 
+Varibale : func 
+Varibale : x 
+Varibale : s 
+hi : + 
+body call ends 
+
+Varibale : func 
+Varibale : x 
+Varibale : i 
+Varibale : j 
+Varibale : i 
+Value : 2 
+Value : 2 
+Operator : + 
+Operator : + 
+hi : + 
+body call ends 
+
+Datatype : int
+Varibale : dont 
+Value : 1 
+Assignment : =
+Value : 1 
+Return statement 
+
+Datatype : int
+Varibale : y 
+Value : 4 
+Value : 3 
+Operator : + 
+Value : 2 
+Operator : * 
+Assignment : =
+Datatype : int
+Varibale : a 
+Value : 0 
+Value : 4 
+Datatype : int
+Varibale : a 
+Value : 4 
+Value : 3 
+Operator : * 
+Varibale : s 
+Operator : + 
+Declaration of the function above
+
+
+Datatype : int
+Varibale : main 
+Varibale : func 
+Value : 22 
+Value : 23 
+Value : 4 
+Value : 2 
+Operator : * 
+Value : 3 
+Value : 2 
+Operator : + 
+hi : + 
+body call ends 
+
+Declaration of the function above
+
+
